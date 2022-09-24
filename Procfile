@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run sl.py
+web: sh setup.sh && streamlit run deepvision1.py
