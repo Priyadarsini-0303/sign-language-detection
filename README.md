@@ -1,4 +1,4 @@
-# sign-language-detection
+# Action-detection
 Signed-Unsigned Detection helps detect whether a person is signing or not.
 
 # Dataset
